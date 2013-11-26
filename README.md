@@ -1,4 +1,4 @@
-## just-next-tick
+## just-next-tick (or go)
 
 Cross-platform next-tick with fallback to setTimeout.
 
@@ -6,6 +6,12 @@ Cross-platform next-tick with fallback to setTimeout.
 
 ```bash
 $ npm install just-next-tick
+```
+
+It's also available as `go`:
+
+```bash
+$ npm install go
 ```
 
 ## Usage
